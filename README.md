@@ -1,6 +1,7 @@
 # Examples for the Vyper Programming Language
 
 Some basic Vyper programs we talked about in class. Currently, this contains three examples.
+Each of them has a code file (ending with `.vy`) and a test script (starting with `test_`).
 
 * `storage`: A simple get/set contract
 * `access_control`: Similar to storage, but only allows authorized users to modify the value
